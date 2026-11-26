@@ -1,0 +1,7 @@
+/build*/
+/dist/
+/test-results/
+/.vs/
+/CMakeUserPresets.json
+*.user
+*.suo
